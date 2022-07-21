@@ -1,0 +1,9 @@
+Chords:
+
+C: C/E/G
+Am: A/C/E
+G: G/B/D
+Em: E/G/B
+
+Music:
+C C C C-A A A A A G G G G-E E E E E
